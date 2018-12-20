@@ -1,0 +1,13 @@
+{
+    "learning_rate": 1e-3,
+    "reinit_adam_after_n_batches": 400,
+    "batch_size": 100,
+    "learning_rate_decay": 1e-4,
+    "epochs": 5,
+    "NUMBER_OF_TRAINING_IMAGES": 100000,
+    "best_ckpt_dir": "/path/to/best_ckpt/folder/",
+    "save_dir": "/path/to/ckpt/folder/",
+    "start_from_last": false,
+    "thresh_plot_cnt": 10,
+    "save_each": 7
+}
